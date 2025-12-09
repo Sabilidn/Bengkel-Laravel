@@ -1,0 +1,208 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.woff2?716d898122548937996ee23449084144") format("woff2"), url("../fonts/flaticon.woff?716d898122548937996ee23449084144") format("woff"), url("../fonts/flaticon.eot?716d898122548937996ee23449084144#iefix") format("embedded-opentype"), url("../fonts/flaticon.ttf?716d898122548937996ee23449084144") format("truetype"), url("../fonts/flaticon.svg?716d898122548937996ee23449084144#flaticon") format("svg")
+}
+
+i[class^="flaticon-"]:before,
+i[class*=" pbmit-karsfix-icon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pbmit-karsfix-icon-car-engine:before {
+    content: "\f101";
+}
+
+.pbmit-karsfix-icon-repair:before {
+    content: "\f102";
+}
+
+.pbmit-karsfix-icon-setting:before {
+    content: "\f103";
+}
+
+.pbmit-karsfix-icon-garage:before {
+    content: "\f104";
+}
+
+.pbmit-karsfix-icon-headlight:before {
+    content: "\f105";
+}
+
+.pbmit-karsfix-icon-report:before {
+    content: "\f106";
+}
+
+.pbmit-karsfix-icon-car-lifter:before {
+    content: "\f107";
+}
+
+.pbmit-karsfix-icon-belt:before {
+    content: "\f108";
+}
+
+.pbmit-karsfix-icon-spark-plug:before {
+    content: "\f109";
+}
+
+.pbmit-karsfix-icon-automobile:before {
+    content: "\f10a";
+}
+
+.pbmit-karsfix-icon-tyre:before {
+    content: "\f10b";
+}
+
+.pbmit-karsfix-icon-car-battery:before {
+    content: "\f10c";
+}
+
+.pbmit-karsfix-icon-car-lifter-1:before {
+    content: "\f10d";
+}
+
+.pbmit-karsfix-icon-worker:before {
+    content: "\f10e";
+}
+
+.pbmit-karsfix-icon-brakes:before {
+    content: "\f10f";
+}
+
+.pbmit-karsfix-icon-turbo:before {
+    content: "\f110";
+}
+
+.pbmit-karsfix-icon-steering-wheel:before {
+    content: "\f111";
+}
+
+.pbmit-karsfix-icon-car-door:before {
+    content: "\f112";
+}
+
+.pbmit-karsfix-icon-chassis:before {
+    content: "\f113";
+}
+
+.pbmit-karsfix-icon-windscreen:before {
+    content: "\f114";
+}
+
+.pbmit-karsfix-icon-monitor:before {
+    content: "\f115";
+}
+
+.pbmit-karsfix-icon-adjustable-wrench:before {
+    content: "\f116";
+}
+
+.pbmit-karsfix-icon-spanner:before {
+    content: "\f117";
+}
+
+.pbmit-karsfix-icon-bolt:before {
+    content: "\f118";
+}
+
+.pbmit-karsfix-icon-engine:before {
+    content: "\f119";
+}
+
+.pbmit-karsfix-icon-woofer:before {
+    content: "\f11a";
+}
+
+.pbmit-karsfix-icon-side-mirror:before {
+    content: "\f11b";
+}
+
+.pbmit-karsfix-icon-nut:before {
+    content: "\f11c";
+}
+
+.pbmit-karsfix-icon-car-key:before {
+    content: "\f11d";
+}
+
+.pbmit-karsfix-icon-stick:before {
+    content: "\f11e";
+}
+
+.pbmit-karsfix-icon-exhaust:before {
+    content: "\f11f";
+}
+
+.pbmit-karsfix-icon-lug-wrench:before {
+    content: "\f120";
+}
+
+.pbmit-karsfix-icon-chassis-1:before {
+    content: "\f121";
+}
+
+.pbmit-karsfix-icon-meter:before {
+    content: "\f122";
+}
+
+.pbmit-karsfix-icon-technical-support:before {
+    content: "\f123";
+}
+
+.pbmit-karsfix-icon-spray-can:before {
+    content: "\f124";
+}
+
+.pbmit-karsfix-icon-funnel:before {
+    content: "\f125";
+}
+
+.pbmit-karsfix-icon-spray-paint-gun:before {
+    content: "\f126";
+}
+
+.pbmit-karsfix-icon-calender-app:before {
+    content: "\f127";
+}
+
+.pbmit-karsfix-icon-events:before {
+    content: "\f128";
+}
+
+.pbmit-karsfix-icon-best-price:before {
+    content: "\f129";
+}
+
+.pbmit-karsfix-icon-telephone:before {
+    content: "\f12a";
+}
+
+.pbmit-karsfix-icon-mail:before {
+    content: "\f12b";
+}
+
+.pbmit-karsfix-icon-placeholder:before {
+    content: "\f12c";
+}
+
+.pbmit-karsfix-icon-briefcase:before {
+    content: "\f12d";
+}
+
+.pbmit-karsfix-icon-customer-satisfaction:before {
+    content: "\f12e";
+}
+
+.pbmit-karsfix-icon-thumbs:before {
+    content: "\f12f";
+}
+
+.pbmit-karsfix-icon-straight-quotes:before {
+    content: "\f130";
+}
