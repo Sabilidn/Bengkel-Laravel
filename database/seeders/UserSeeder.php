@@ -27,6 +27,6 @@ class UserSeeder extends Seeder
                 'password' => Hash::make('12345678'),
                 'isAdmin' => 0
             ]
-        ]);
+            ]);
     }
 }
